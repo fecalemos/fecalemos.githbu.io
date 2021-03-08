@@ -1,2 +1,2 @@
-# fecalemos.githbu.io
+# fecalemos.githbub.io
 website personal
