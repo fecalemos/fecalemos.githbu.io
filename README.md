@@ -1,11 +1,11 @@
 <samp>
-<h1 align="center">Hello World! 👋</h1>
+<h1 align="center">Olá Aqui! 👋</h1>
 
 <p align="center">
-  Meu nome é Fernando, tenho 35 anos e me aventuro no mundo do código há 10 anos. Sempre gostei de jogos eletrônicos e tinha vontade de programá-los, mas acabei caindo no mundo da web e desktop :)
+  Meu nome é Fernando, tenho 36 anos e me aventuro no mundo do código de fonte há 10 anos. Sempre gostei de jogos eletrônicos e tinha vontade de programá-los, mas acabei caindo no mundo da web, aplicativos e computação em nuvem :)
 </p>
 <p align="center">
-  Trabalho na <a href="https://www.avanade.com/pt-br" target="_blank">Avanade</a> como dev Fullstack e sou apaixonado por <strong>software</strong>, <strong>JavaScript</strong>, <strong>Angular</strong> e <strong>.NET Core </strong>
+  Trabalho na <a href="https://www.itau.com/" target="_blank">Itaú Unibanco</a> como analista de egenharia de TI e sou apaixonado por <strong>aplicativos</strong>, <strong>cloud</strong>, <strong>javascript</strong>, <strong>.NET Core </strong> e <strong>python</strong>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center">***</p>
 
-<p align="center">🌱 Estou estudando <strong>React</strong> e <strong>TypeScript</strong>.</p>
+<p align="center">🌱 Estou estudando <strong>Python</strong> e <strong>TypeScript</strong>.</p>
 
 ## GitHub Stats and Most Used Languages
 
@@ -27,11 +27,11 @@
 ## Tech Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white)
